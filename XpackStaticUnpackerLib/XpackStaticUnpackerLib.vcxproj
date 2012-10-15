@@ -13,7 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{DFB5E6D6-6FFA-4365-B62D-CDB27796B4CB}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>CitadelStaticUnpackerLib</RootNamespace>
+    <RootNamespace>XpackStaticUnpackerLib</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
